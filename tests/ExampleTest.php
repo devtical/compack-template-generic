@@ -30,5 +30,4 @@ class :package_class_nameTest extends TestCase
             ],
         ], $array);
     }
-
 }
